@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: dazzle
+      hosts:
+        - localhost:27017
